@@ -1,0 +1,5 @@
+src/logs/*.log
+src/exports/*.xlsx
+.venv/
+.coverage
+htmlcov/
